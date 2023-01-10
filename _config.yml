@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Linqing Huang"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebarXXXXX"
-  location         : "Location"
+  avatar           : "LinqingHuang.png"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hr0lweYAAAAJ&hl=zh-CN&oi=ao"
-  email            : &huanglinqing95@gmail.com
+  email            : "huanglinqing95@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
