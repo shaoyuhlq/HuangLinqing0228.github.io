@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interest (研究兴趣)
 ======
-Classifier Ensemble; Domain Adaptation; Domain Generalization; Federated Learning.
+- Classifier Ensemble; Domain Adaptation; Domain Generalization; Federated Learning.
 
 Education Experience (教育经历)
 ======
@@ -25,4 +25,4 @@ Research Experience (研究经历)
 
 Publications (发表论文)
 ------
-
+1. [IEEE TCYB] Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. IEEE Transactions on Cybernetics (IEEE TCYB), 2022.
