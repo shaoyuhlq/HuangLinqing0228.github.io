@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Research Interest (研究兴趣)
 ======
 Classifier Ensemble; Domain Adaptation; Domain Generalization; Federated Learning.
