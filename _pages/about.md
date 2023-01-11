@@ -1,40 +1,3 @@
-
-<html>
-
-<head>
-	<meta charset="UTF-8">
-	<title>Linqing Huang's Homepage</title>
-	<style>
-		body {
-			background-color:#d0e4fe;
-		}
-		p {
-			color:red;
-			font-family:"Times New Roman";
-			font-size:20px;
-		}
-		h1 {
-			text-align:center;
-			color:blue;
-		}
-		h2{
-			text-align:center;
-			color:green;
-		}
-		h3{
-			text-align:center;
-			color:green;
-		}
-	</style>
-</head>
-
-
-<body>
-
-<div id="menu" style="height:200px;width:150px;float:left;">
-
-</div>
-
 <div id="content" style="background-color:white; height:2000px;width:1200px;float:left;">
 
     <span style="font-size: 24">Linqing Huang (黄林庆)</span>
@@ -227,7 +190,4 @@
             </ul>
         </div>
 </div>
-</body>
-
-</html>
 
