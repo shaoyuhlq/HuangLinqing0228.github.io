@@ -14,16 +14,14 @@ Classifier Ensemble; Domain Adaptation; Domain Generalization; Federated Learnin
 
 Education Experience (教育经历)
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2020.04--2023.12, Northwestern Polytechnical University (NPU), PhD.
+2017.09--2020.03, Northwestern Polytechnical University (NPU), Master.
+2013.09--2017.06, Henan University (HENU), Bachelor.
 
-Site-wide configuration
+Research Experience (研究经历)
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2022.07 - 2023.07, The School of Computing (SoC) at National University of Singapore (NUS), Singapore. Advisor: Yang You.
+2022.07 - 2022.12, The Institute for Integrated Intelligent Systems (IIIS) at Griffith University (GU) (IIIS), Gold Coast, Brisbane, Australia. Advisor: Alan Wee-Chung Liew (online).
 
 Create content & metadata
 ------
