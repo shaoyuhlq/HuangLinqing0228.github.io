@@ -41,5 +41,8 @@ Friends
 =====
 - [Jinfu Fan (Tongji University)]()
 - [Wangbo Zhao (National University of Signapore)]()
+- [Chaoyu Gong (Southeast University)]()
 - [Kai Wang (National University of Signapore)]()
-- 
+- [Yong Liu (National University of Signapore)]()
+- [Duo Yang (Zhejiang University)]()
+- [Jianyang Gu (Zhejiang University)]()
