@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Linqing Huang (黄林庆)"
+title                    : "Dr. Linqing Huang"
 title_separator          : "-"
-name                     : &name "Dr. Linqing Huang"
+name                     : &name "Dr. Linqing Huang (黄林庆)"
 description              : &description "personal description"
 url                      : https://shaoyuhlq.github.io/HuangLinqing0228.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
