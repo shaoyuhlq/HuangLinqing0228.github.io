@@ -22,7 +22,7 @@ Education Experience
 
 Publications
 =====
-1. [**<font color="red">IEEE TCYB</font>**] **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. IEEE Transactions on Cybernetics, 2022.
+1. [**<font color="red">IEEE TCYB</font>**] **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. IEEE Transactions on Cybernetics, 2022. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang (黄林庆)**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. IEEE Transactions on Neural Networks and Learning Systems, 2023.  
 3. [**<font color="red">INFFUS</font>**] **Linqing Huang (黄林庆)**, Wangbo Zhao, Alan Wee-Chung Liew, and Yang You. An Evidential Combination Method with Multi-color Spaces for Remote Sensing Image Scene Classification. Information Fusion, 2023.
 4. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang (黄林庆)**, Kuang Zhou, Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. IEEE Transactions on Neural Networks and Learning Systems, 2021.
