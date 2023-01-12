@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interest
 ======
-Classifier Ensemble; Domain Adaptation; Domain Generalization; Remote Sensing Image Understanding; Federated Learning.
+Classifier Ensemble; Domain Adaptation/Generalization; Remote Sensing Image Understanding; Federated Learning.
 
 Education Experience
 ======
