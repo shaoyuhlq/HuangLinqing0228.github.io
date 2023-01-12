@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interest
 ======
-- Classifier Ensemble; Domain Adaptation; Domain Generalization; Federated Learning.
+Classifier Ensemble; Domain Adaptation; Domain Generalization; Federated Learning.
 
 Education Experience
 ======
