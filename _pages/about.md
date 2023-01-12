@@ -20,10 +20,6 @@ Education Experience
 - 2017.09--2020.03, Northwestern Polytechnical University (NPU), Master.
 - 2013.09--2017.06, Henan University (HENU), Bachelor.
 
-Research Experience
-=====
-
-
 Publications
 =====
 1. [IEEE TCYB] Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. IEEE Transactions on Cybernetics (IEEE TCYB), 2022.
