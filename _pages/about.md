@@ -31,3 +31,8 @@ Selected Publications
 7. [**<font color="red">KBS</font>**] **Linqing Hung (黄林庆)**, Wangbo Zhao, Jinfu Fan, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. Knowledge-Based Systems (**2022-IF: 8.139**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
 8. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang (黄林庆)**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. Pattern Recognition (**2022-IF: 8.518**), 2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 9. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang (黄林庆)**, Jean DEZERT, Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment.  Chinese Journal of Aeronautics (**2022-IF: 4.061**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
+
+Useful Link
+=====
+1. [HPC-AI Lab]()
+2. []
