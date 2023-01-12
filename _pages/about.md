@@ -20,7 +20,7 @@ Education Experience
 - 2017.09--2020.03, Northwestern Polytechnical University (NPU), Master.
 - 2013.09--2017.06, Henan University (HENU), Bachelor.
 
-Publications
+Selected Publications
 =====
 1. [**<font color="red">IEEE TCYB</font>**] **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. IEEE Transactions on Cybernetics (**2022-IF: 19.118**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang (黄林庆)**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. IEEE Transactions on Neural Networks and Learning Systems (**2022-IF: 14.255**), 2023.
