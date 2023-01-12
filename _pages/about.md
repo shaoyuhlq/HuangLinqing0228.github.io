@@ -26,3 +26,4 @@ Research Experience
 Publications
 =====
 1. [IEEE TCYB] Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. IEEE Transactions on Cybernetics (IEEE TCYB), 2022.
+2. [INFFUS]  An Evidential Combination Method with Multi-color Spaces for Remote Sensing Image Scene Classification. **Linqing Huang (黄林庆)**, Wangbo Zhao, Alan Wee-Chung Liew, and Yang You. Information Fusion, 2023.
