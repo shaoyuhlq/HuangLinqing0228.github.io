@@ -46,5 +46,5 @@ Friends
 [Yong Liu (National University of Signapore)](https://ai.comp.nus.edu.sg/people/yong/); 
 [Xiangyu Peng (National University of Signapore)](https://scholar.google.com/citations?user=KRUTk7sAAAAJ&hl=zh-CN)
 [Zangwei Zheng (National University of Signapore)](https://scholar.google.com/citations?user=FTqutJEAAAAJ&hl=zh-CN&oi=ao)
-[Duo Yang (Zhejiang University)]()
+[Duo Yang (Zhejiang University)]();
 [Jianyang Gu (Zhejiang University)](https://scholar.google.com/citations?user=8ZXbT18AAAAJ&hl=zh-CN);
