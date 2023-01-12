@@ -34,5 +34,5 @@ Selected Publications
 
 Useful Link
 =====
-1. [HPC-AI Lab]()
-2. []
+1. [HPC-AI Lab at National University of Signapore]()
+2. [ Institute for Integrated and Intelligent Systems at Griffith University]()
