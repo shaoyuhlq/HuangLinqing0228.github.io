@@ -39,4 +39,7 @@ Useful Link
 
 Friends
 =====
-- Jinfu Fan (Tongji University)
+- [Jinfu Fan (Tongji University)]()
+- [Wangbo Zhao (National University of Signapore)]()
+- [Kai Wang (National University of Signapore)]()
+- 
