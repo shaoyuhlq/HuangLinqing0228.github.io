@@ -48,4 +48,5 @@ Friends
 [Zangwei Zheng (National University of Signapore)](https://scholar.google.com/citations?user=FTqutJEAAAAJ&hl=zh-CN&oi=ao);
 [Duo Yang (Zhejiang University)](https://www.researchgate.net/profile/Yang-Duo);
 [Jianyang Gu (Zhejiang University)](https://scholar.google.com/citations?user=8ZXbT18AAAAJ&hl=zh-CN);
-[Qianli Zhou (University of Electronic Science and Technology of China)](https://www.researchgate.net/profile/Qianli-Zhou).
+[Qianli Zhou (University of Electronic Science and Technology of China)](https://www.researchgate.net/profile/Qianli-Zhou);
+[Guangxing Wang (Northwestern Polytechnical University)](https://scholar.google.com/citations?user=iiZ-3c0AAAAJ&hl=zh-CN).
