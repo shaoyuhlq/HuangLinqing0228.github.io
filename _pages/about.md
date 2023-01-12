@@ -25,7 +25,7 @@ Publications
 1. [**<font color="red">IEEE TCYB</font>**] **Linqing Huang (黄林庆)**, Zhun-ga Liu, Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. IEEE Transactions on Cybernetics (IEEE TCYB), 2022.
 2. [INFFUS] **Linqing Huang (黄林庆)**, Wangbo Zhao, Alan Wee-Chung Liew, and Yang You. An Evidential Combination Method with Multi-color Spaces for Remote Sensing Image Scene Classification. Information Fusion, 2023.
 4. [IEEE TNNLS] **Linqing Huang (黄林庆)**, Kuang Zhou, Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. IEEE Transactions on Neural Networks and Learning Systems, 2021.
-5. [SCIS] Evidential Combination of Augmented Multi-source of Information Based on Domain Adaptation. **Linqing Hung (黄林庆)**, zhun-ga Liu, Quan Pan, Dezert Jean. SCIENCE CHINA Information Sciences, 2020.
-6. [KBS] A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. **Linqing Hung (黄林庆)**, Wangbo Zhao, Jinfu Fan, and Yang You. Knowledge-Based Systems, 2023.
-7. [PR] GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. Jinfu Fan, Yang Yu, **Linqing Huang (黄林庆)**, Zhongjie Wang. Pattern Recognition, 2022.
-8. [CJA] Combination of Classifiers with Incomplete Frames of Discernment. Zhunga Liu, Jingfei Duan, **Linqing Huang (黄林庆)**, Jean DEZERT. Chinese Journal of Aeronautics, 2022. 
+5. [SCIS] **Linqing Hung (黄林庆)**, zhun-ga Liu, Quan Pan, Dezert Jean. Evidential Combination of Augmented Multi-source of Information Based on Domain Adaptation.  SCIENCE CHINA Information Sciences, 2020.
+6. [KBS] **Linqing Hung (黄林庆)**, Wangbo Zhao, Jinfu Fan, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion.  Knowledge-Based Systems, 2023.
+7. [PR] Jinfu Fan, Yang Yu, **Linqing Huang (黄林庆)**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. Pattern Recognition, 2022.
+8. [CJA] Zhunga Liu, Jingfei Duan, **Linqing Huang (黄林庆)**, Jean DEZERT, Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment.  Chinese Journal of Aeronautics, 2022. 
