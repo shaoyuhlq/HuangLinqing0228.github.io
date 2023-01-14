@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Research Interest
+Research Interests
 ======
 Classifier Ensemble; Domain Adaptation/Generalization; Remote Sensing Image Understanding; Federated Learning.
 
@@ -32,7 +32,7 @@ Selected Publications
 8. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.518**), 2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 9. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 4.061**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
 
-Useful Link
+Useful Links
 =====
 1. [High Performance Computing and Artifical Intelligence (HPC-AI) Lab at National University of Signapore](https://ai.comp.nus.edu.sg/)
 2. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
