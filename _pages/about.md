@@ -37,17 +37,17 @@ Useful Links
 1. [High Performance Computing and Artifical Intelligence (HPC-AI) Lab at National University of Signapore](https://ai.comp.nus.edu.sg/)
 2. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
 
-Friends
-=====
-[Jinfu Fan (Tongji University)](https://scholar.google.com/citations?user=iQtgOnsAAAAJ&hl=zh-CN&oi=ao); 
-[Wangbo Zhao (National University of Signapore)](https://wangbo-zhao.github.io/); 
-[Chaoyu Gong (Southeast University)](https://www.researchgate.net/profile/Gong-Chaoyu); 
-[Kai Wang (National University of Signapore)](https://kaiwang960112.github.io/); 
-[Yong Liu (National University of Signapore)](https://ai.comp.nus.edu.sg/people/yong/); 
-[Xiangyu Peng (National University of Signapore)](https://scholar.google.com/citations?user=KRUTk7sAAAAJ&hl=zh-CN);
-[Zangwei Zheng (National University of Signapore)](https://scholar.google.com/citations?user=FTqutJEAAAAJ&hl=zh-CN&oi=ao);
-[Zirui Zhu (National University of Signapore)](https://zirui-zhu.com/);
-[Duo Yang (Zhejiang University)](https://www.researchgate.net/profile/Yang-Duo);
-[Jianyang Gu (Zhejiang University)](https://scholar.google.com/citations?user=8ZXbT18AAAAJ&hl=zh-CN);
-[Qianli Zhou (University of Electronic Science and Technology of China)](https://www.researchgate.net/profile/Qianli-Zhou);
-[Guangxing Wang (Northwestern Polytechnical University)](https://scholar.google.com/citations?user=iiZ-3c0AAAAJ&hl=zh-CN).
+# Friends
+# =====
+# [Jinfu Fan (Tongji University)](https://scholar.google.com/citations?user=iQtgOnsAAAAJ&hl=zh-CN&oi=ao); 
+# [Wangbo Zhao (National University of Signapore)](https://wangbo-zhao.github.io/); 
+# [Chaoyu Gong (Southeast University)](https://www.researchgate.net/profile/Gong-Chaoyu); 
+# [Kai Wang (National University of Signapore)](https://kaiwang960112.github.io/); 
+# [Yong Liu (National University of Signapore)](https://ai.comp.nus.edu.sg/people/yong/); 
+# [Xiangyu Peng (National University of Signapore)](https://scholar.google.com/citations?user=KRUTk7sAAAAJ&hl=zh-CN);
+# [Zangwei Zheng (National University of Signapore)](https://scholar.google.com/citations?user=FTqutJEAAAAJ&hl=zh-CN&oi=ao);
+# [Zirui Zhu (National University of Signapore)](https://zirui-zhu.com/);
+# [Duo Yang (Zhejiang University)](https://www.researchgate.net/profile/Yang-Duo);
+# [Jianyang Gu (Zhejiang University)](https://scholar.google.com/citations?user=8ZXbT18AAAAJ&hl=zh-CN);
+# [Qianli Zhou (University of Electronic Science and Technology of China)](https://www.researchgate.net/profile/Qianli-Zhou);
+# [Guangxing Wang (Northwestern Polytechnical University)](https://scholar.google.com/citations?user=iiZ-3c0AAAAJ&hl=zh-CN).
