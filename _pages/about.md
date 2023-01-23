@@ -34,5 +34,5 @@ Selected Publications
 
 Useful Links
 =====
-1. [High Performance Computing and Artifical Intelligence (HPC-AI) Lab at National University of Signapore](https://ai.comp.nus.edu.sg/)
+1. [High Performance Computing for Artifical Intelligence (HPC-AI) Lab at National University of Signapore](https://ai.comp.nus.edu.sg/)
 2. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
