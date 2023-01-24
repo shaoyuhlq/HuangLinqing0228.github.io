@@ -36,3 +36,11 @@ Useful Links
 =====
 1. [High Performance Computing for Artifical Intelligence (HPC-AI) Lab at National University of Signapore](https://ai.comp.nus.edu.sg/)
 2. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
+
+Selected Honors
+====
+1. China National Scholarship for Graduate, Ministry of Education of China, 2021. (Highest level of scholarship for graduate set by the government of China)
+2. China National Scholarship for Undergraduate, Ministry of Education of China, 2016. (Highest level of scholarship for undergraduate set by the government of China)
+3. National Encouragement Scholarship for Undergraduate, Education Department of Henan Province, 2015.
+4. National Encouragement Scholarship for Undergraduate, Education Department of Henan Province, 2014.
+
