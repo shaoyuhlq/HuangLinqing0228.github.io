@@ -38,9 +38,13 @@ Useful Links
 2. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University (GU)](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
 
 Selected Honors
-====
+=====
 1. **China National Scholarship for Graduate**, Ministry of Education of China, 2021. (The highest level of scholarship for graduate set by the government of China)
 2. **China National Scholarship for Undergraduate**, Ministry of Education of China, 2016. (The highest level of scholarship for undergraduate set by the government of China)
 3. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2015.
 4. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
+
+Academic Services
+=====
+Reviewer of the journals: IEEE Transactions on Cybernetics; IEEE Transactions on Systems, Man and Cybernetics: Systems; Frontiers of Information Technology and Electronic Engineering; Array, and so on.
 
