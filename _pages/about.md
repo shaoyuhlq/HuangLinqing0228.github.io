@@ -29,7 +29,7 @@ Selected Publications
 5. [**<font color="red">SCIS</font>**] **Linqing Huang**, zhun-ga Liu, Quan Pan, Dezert Jean. Evidential Combination of Augmented Multi-source of Information Based on Domain Adaptation. <font color="blue">SCIENCE CHINA Information Sciences</font> (**2022-IF: 7.275, CCF A**), 2020. [[PDF](https://link.springer.com/article/10.1007/s11432-020-3080-3)]
 6. [**<font color="red">IEEE TETCI</font>**] **Linqing Huang**, Tiancheng Li, Zhun-ga Liu, Yongmei Cheng. A Robust Multi-source Transfer Classification Method Based on Belief Functions for Cross-domain Pattern Recognition. <font color="blue">IEEE Transactions on Emerging Topics in Computational Intelligence</font> (**2022-IF: 4.851**), 2023.
 7. [**<font color="red">KBS</font>**] **Linqing Huang**, Wangbo Zhao, Jinfu Fan, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. <font color="blue">Knowledge-Based Systems</font> (**2022-IF: 8.139**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
-8. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.518**), 2022. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
+8. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.518**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 9. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 4.061**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
 
 Useful Links
@@ -50,5 +50,6 @@ Selected Honors
 Academic Services
 =====
 Reviewer of journals: IEEE Transactions on Cybernetics (TCYB); IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S); IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI); Frontiers of Information Technology and Electronic Engineering (FITEE); Array, and so on.
+
 Reviewer of conferences: ICISCI2022.
 
