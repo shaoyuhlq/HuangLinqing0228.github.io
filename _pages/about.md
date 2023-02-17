@@ -57,5 +57,5 @@ Reviewer of journals:
 - Array
 
 Reviewer of conferences: 
-- ICISCI2022
+- International Conference on Intelligent Systems and Computational Intelligence (ICISCI) 2022
 
