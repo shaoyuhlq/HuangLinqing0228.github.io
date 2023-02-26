@@ -15,8 +15,7 @@ Low-quality Data Mining; Classifier Ensemble; Domain Adaptation/Generalization; 
 Education Experience
 ======
 - 2020.04 -- 2023.12, Northwestern Polytechnical University (NPU), PhD.
-- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting Scholar, Advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
-- 2022.07 -- 2022.12, School of Information and Communication Technology at Griffith University (GU), Co-advisor: [Alan Wee-Chung Liew](https://experts.griffith.edu.au/7401-alan-weechung-liew) (online).
+- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting Scholar, offline advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/) and online Co-advisor: [Alan Wee-Chung Liew](https://experts.griffith.edu.au/7401-alan-weechung-liew) (School of Information and Communication Technology at Griffith University).
 - 2017.09 -- 2020.03, Northwestern Polytechnical University (NPU), Master.
 - 2013.09 -- 2017.06, Henan University (HENU), Bachelor.
 
