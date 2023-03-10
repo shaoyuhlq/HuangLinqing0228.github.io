@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Linqing Huang (黄林庆)"
+title                    : "Mr. Linqing Huang (黄林庆)"
 title_separator          : "-"
 name                     : &name "Dr. Linqing Huang"
 description              : &description "personal description"
