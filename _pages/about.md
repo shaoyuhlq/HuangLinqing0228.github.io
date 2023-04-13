@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interests
 ======
-Low-quality Data Mining and Learning; Classifier Ensemble; Remote Sensing Image Understanding; Federated Learning; AI Security.
+Low-quality Data Mining and Learning; Remote Sensing Image Understanding; Classifier Ensemble; Federated Learning; AI Security.
 
 Education Experience
 ======
