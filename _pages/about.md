@@ -23,7 +23,7 @@ Selected Publications
 =====
 1. [**<font color="red">IEEE TCYB</font>**] **Linqing Huang**, Zhun-ga Liu, Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Cybernetics</font> (**2022-IF: 19.118**), 2023. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 14.255**), 2023.
-3. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang (导一本二)**, Kuang Zhou, Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 14.255**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9108588)]
+3. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang (导一本二)**, Kuang Zhou, Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 14.255**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9108588)] ESI Highly Cited Paper.
 4. [**<font color="red">INFFUS</font>**] **Linqing Huang**, Wangbo Zhao, Alan Wee-Chung Liew, and Yang You. An Evidential Combination Method with Multi-color Spaces for Remote Sensing Image Scene Classification. <font color="blue">Information Fusion</font> (**2022-IF: 17.564**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002743)]
 5. [**<font color="red">SCIS</font>**] **Linqing Huang**, zhun-ga Liu, Quan Pan, Dezert Jean. Evidential Combination of Augmented Multi-source of Information Based on Domain Adaptation. <font color="blue">SCIENCE CHINA-Information Sciences</font> (**2022-IF: 7.275, CCF-A**), 2020. [[PDF](https://link.springer.com/article/10.1007/s11432-020-3080-3)]
 6. [**<font color="red">IEEE TETCI</font>**] **Linqing Huang**, Tiancheng Li, Zhun-ga Liu, Yongmei Cheng. A Robust Multi-source Transfer Classification Method Based on Belief Functions for Cross-domain Pattern Recognition. <font color="blue">IEEE Transactions on Emerging Topics in Computational Intelligence</font> (**2022-IF: 4.851**), 2023.
@@ -61,7 +61,7 @@ Reviewer of journals:
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
 - Array
-- 124
+
 Reviewer of conferences: 
 - International Conference on Intelligent Systems and Computational Intelligence (ICISCI) 2022
 
