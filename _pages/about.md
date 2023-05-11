@@ -61,7 +61,7 @@ Reviewer of journals:
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
 - Array
-
+- 124
 Reviewer of conferences: 
 - International Conference on Intelligent Systems and Computational Intelligence (ICISCI) 2022
 
