@@ -60,7 +60,9 @@ Reviewer of journals:
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
+- CMC-Computers, Materials & Continua
 - Array
+- etc
 
 Reviewer of conferences: 
 - International Conference on Intelligent Systems and Computational Intelligence (ICISCI) 2022
