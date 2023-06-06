@@ -58,6 +58,7 @@ Academic Services
 Reviewer of journals: 
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Fuzzy Systems (TFS)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
