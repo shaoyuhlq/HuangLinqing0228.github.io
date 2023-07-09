@@ -12,7 +12,7 @@ Research Interests
 ======
 Low-quality Data Mining and Learning;  
 Remote Sensing Image Understanding;   
-Multiple Classifier Ensemble;  
+Multiple Classifier Ensemble/Fusion;  
 Artificial Intelligence Security.
 
 Education Experience
