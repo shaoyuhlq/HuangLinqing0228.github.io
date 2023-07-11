@@ -11,8 +11,7 @@ redirect_from:
 Research Interests
 ======
 Low-quality Data Mining and Learning;  
-Remote Sensing Image Understanding;   
-Multiple Classifier Ensemble/Fusion;  
+Remote Sensing Image Understanding;     
 Artificial Intelligence Security.
 
 Education Experience
