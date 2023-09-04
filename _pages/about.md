@@ -32,7 +32,7 @@ Selected Publications
 7. [**<font color="red">KBS</font>**] **Linqing Huang**, Jinfu Fan, Wangbo Zhao, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. <font color="blue">Knowledge-Based Systems</font> (**2022-IF: 8.8**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
 8. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.0**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 9. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 5.7**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
-10. [**<font color="red">TNNLS</font>**] Jinfu Fan, **Linqing Huang**, Gongchao Gong, Yang You, Zhongjie Wang. KMT-PLL: K-means Cross-attention Transformer for Partial Label Learning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4, Major Revision**), 2023.
+10. [**<font color="red">TNNLS</font>**] Jinfu Fan, **Linqing Huang**, Chaoyu Gong, Yang You, Zhongjie Wang. KMT-PLL: K-means Cross-attention Transformer for Partial Label Learning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4, Major Revision**), 2023.
 
 Useful Links
 =====
