@@ -65,6 +65,7 @@ Reviewer of journals:
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
+- Jordanian Journal of Computers and Information Technology (JJCIT)
 - CMC-Computers, Materials & Continua
 - Array
 - etc
