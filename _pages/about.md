@@ -64,7 +64,7 @@ Reviewer of journals:
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Fuzzy Systems (TFS)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)
-- IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS)
+- IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
 - Jordanian Journal of Computers and Information Technology (JJCIT)
