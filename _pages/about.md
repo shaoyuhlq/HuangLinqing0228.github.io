@@ -25,7 +25,7 @@ Education Experience
 - 2013.09 -- 2017.06, Henan University (HENU), Bachelor.
 
 Selected Publications
-=====
+======
 1. [**<font color="red">IEEE TCYB, ESI Highly Cited Paper (2023 May/Jun)</font>**] **Linqing Huang**, Zhun-ga Liu, Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Cybernetics</font> (**2022-IF: 11.8**), 2023. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2023. [[PDF](https://ieeexplore.ieee.org/document/10135140)]
 3. [**<font color="red">IEEE TNNLS, ESI Highly Cited Paper (2021 Nov/Dec)</font>**] **Linqing Huang**, Kuang Zhou, Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9108588)]
@@ -39,13 +39,13 @@ Selected Publications
 11. [**<font color="red">IEEE TNNLS</font>**] Jinfu Fan, **Linqing Huang**, Chaoyu Gong, Yang You, Zhongjie Wang. KMT-PLL: K-means Cross-attention Transformer for Partial Label Learning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4, Major Revision**), 2023.
 
 Useful Links
-=====
+======
 1. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University (GU)](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
 2. [High Performance Computing for Artifical Intelligence (HPC-AI) Lab at National University of Signapore (NUS)](https://ai.comp.nus.edu.sg/)
 
 
 Selected Honors
-=====
+======
 1. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2022.
 2. **China National Scholarship for Graduate**, Ministry of Education of P.R. China, 2021. (The highest level of scholarship for graduate set by the government of China)
 3. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2021.
@@ -55,13 +55,13 @@ Selected Honors
 7. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
 
 Selected Projects
-=====
+======
 1. 基于证据理论的数据迁移融合目标识别，西北工业大学博士论文创新基金重点项目，2021.5-2023.5.
 2. 基于证据推理的多源迁移融合数据分类，西北工业大学研究生创新创意种子基金，2019.1-2019.12.
 3. 基于迁移学习的异质遥感数据变化检测，西北工业大学研究生创新创意种子基金，2018.1-2018.12.
 
 Academic Services
-=====
+======
 Reviewer of journals: 
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
