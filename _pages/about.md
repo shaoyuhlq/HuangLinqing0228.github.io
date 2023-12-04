@@ -16,7 +16,7 @@ Artificial Intelligence Security.
 
 Research Experience
 ======
-- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting PhD Student, onsite-advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/) and online-advisor: [Alan Wee-Chung Liew](https://experts.griffith.edu.au/7401-alan-weechung-liew) (School of Information and Communication Technology at Griffith University).
+- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting PhD Student, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/)
 
 Education Experience
 ======
