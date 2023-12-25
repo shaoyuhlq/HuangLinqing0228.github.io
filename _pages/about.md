@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+News
+======
+- One paper is accepted by TNNLS!
+
 Research Interests
 ======
 Low-quality Data Mining and Learning;  
