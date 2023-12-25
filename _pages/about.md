@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ======
-- One paper is accepted by TNNLS!
+- 2023.12: One paper is accepted by TNNLS!
 
 Research Interests
 ======
