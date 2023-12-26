@@ -24,7 +24,7 @@ Research Experience
 
 Education Experience
 ======
-- 2020.04 -- 2023.12, Northwestern Polytechnical University (NPU), PhD.
+- 2020.02 -- 2023.12, Northwestern Polytechnical University (NPU), PhD.
 - 2017.09 -- 2020.03, Northwestern Polytechnical University (NPU), Master.
 - 2013.09 -- 2017.06, Henan University (HENU), Bachelor.
 
