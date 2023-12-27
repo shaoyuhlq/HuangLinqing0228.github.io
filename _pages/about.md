@@ -74,9 +74,6 @@ Reviewer of journals:
 - IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
-- Jordanian Journal of Computers and Information Technology (JJCIT)
-- CMC-Computers, Materials & Continua
-- Array
 - etc
 
 Reviewer of conferences: 
