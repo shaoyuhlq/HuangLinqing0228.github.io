@@ -50,13 +50,14 @@ Useful Links
 
 Selected Honors
 ======
-1. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2022.
-2. **China National Scholarship for Graduate**, Ministry of Education of P.R. China, 2021. (The highest level of scholarship for graduate set by the government of China)
-3. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2021.
-4. Outstanding master student of NPU, Northwestern Polytechnical University, 2018.
-5. **China National Scholarship for Undergraduate**, Ministry of Education of P.R. China, 2016. (The highest level of scholarship for undergraduate set by the government of China)
-6. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2015.
-7. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
+1. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2023.
+2. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2022.
+3. **China National Scholarship for Graduate**, Ministry of Education of P.R. China, 2021. (The highest level of scholarship for graduate set by the government of China)
+4. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2021.
+5. Outstanding master student of NPU, Northwestern Polytechnical University, 2018.
+6. **China National Scholarship for Undergraduate**, Ministry of Education of P.R. China, 2016. (The highest level of scholarship for undergraduate set by the government of China)
+7. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2015.
+8. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
 
 Selected Projects
 ======
