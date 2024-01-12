@@ -41,6 +41,16 @@ Selected Publications
 9. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.0**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 10. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 5.7**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
 
+In Peer Review
+======
+1. DJCA
+2. MICA
+3. IDAC
+4. MET
+5. MMET
+6. RMST
+7. CFANet
+
 
 Useful Links
 ======
