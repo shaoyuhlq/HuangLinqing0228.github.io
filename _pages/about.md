@@ -11,6 +11,8 @@ redirect_from:
 News
 ======
 - 2023.12: One paper is accepted by TNNLS!
+- 2023.09: One paper is accepted by TAI!
+- 2023.05: One paper is accepted by TNNLS!
 
 Research Interests
 ======
