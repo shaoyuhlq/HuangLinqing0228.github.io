@@ -10,9 +10,10 @@ redirect_from:
 
 News
 ======
-- 2023.12: One paper is accepted by TNNLS!
-- 2023.09: One paper is accepted by TAI!
-- 2023.05: One paper is accepted by TNNLS!
+- 2023.12: One paper is accepted by IEEE TNNLS!
+- 2023.09: One paper is accepted by IEEE TAI!
+- 2023.05: One paper is accepted by IEEE TNNLS!
+- 2022.12: One paper is accepted by Information Fusion!
 
 Research Interests
 ======
