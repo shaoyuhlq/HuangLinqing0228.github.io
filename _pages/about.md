@@ -89,6 +89,7 @@ Reviewer of journals:
 - IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Frontiers of Information Technology and Electronic Engineering (FITEE)
+- International Journal of Machine Learning and Cybernetics (JMLC)
 - etc
 
 Reviewer of conferences: 
