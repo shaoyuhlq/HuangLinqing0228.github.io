@@ -10,7 +10,9 @@ redirect_from:
 
 About me
 =====
-I am an Assistant Professor in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University.
+I am an Assistant Professor in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. 
+
+I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you are interested in my research!
 
 News
 ======
