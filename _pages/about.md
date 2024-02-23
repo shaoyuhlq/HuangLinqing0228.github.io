@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+About me
+=====
+I am an Assistant Professor in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University.
+
 News
 ======
 - 2023.12: One paper is accepted by IEEE TNNLS!
