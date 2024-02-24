@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-I am an Assistant Professor in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. 
+I’m an Assistant Professor in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. 
 
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you have interests!
 
@@ -26,6 +26,10 @@ Research Interests
 Low-quality Data Mining and Learning;  
 Remote Sensing Image Understanding;     
 Artificial Intelligence Security.
+
+Work Experience
+=====
+- 2024.02--, School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, Assistant Professor.
 
 Research Experience
 ======
