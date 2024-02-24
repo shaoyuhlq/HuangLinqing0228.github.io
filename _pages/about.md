@@ -16,8 +16,11 @@ I’m actively looking for a few undergrad students to work together. Please fee
 
 News
 ======
+- 2024.01：One paper is selected as ESI highly cited paper!
 - 2023.12: One paper is accepted by IEEE TNNLS!
+- 2023.11：One paper is selected as ESI highly cited paper!
 - 2023.09: One paper is accepted by IEEE TAI!
+- 2023.09：One paper is selected as ESI highly cited paper!
 - 2023.05: One paper is accepted by IEEE TNNLS!
 - 2022.12: One paper is accepted by Information Fusion!
 
