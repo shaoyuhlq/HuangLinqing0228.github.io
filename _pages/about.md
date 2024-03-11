@@ -16,12 +16,13 @@ I’m actively looking for a few undergrad students to work together. Please fee
 
 News
 ======
-- 2024.02: I join the AI Security Lab led by Prof. Gongshen Liu and Prof. Shilin Wang!
-- 2024.01: One paper is selected as ESI highly cited paper!
-- 2023.12: One paper is accepted by IEEE TNNLS!
-- 2023.09: One paper is accepted by IEEE TAI!
-- 2023.05: One paper is accepted by IEEE TNNLS!
-- 2022.12: One paper is accepted by Information Fusion!
+- 2024.03: I get the Award for Outstanding PhD graduate of NPU.
+- 2024.02: I join the AI Security Lab led by Prof. Gongshen Liu and Prof. Shilin Wang.
+- 2024.01: One paper is selected as ESI highly cited paper.
+- 2023.12: One paper is accepted by IEEE TNNLS.
+- 2023.09: One paper is accepted by IEEE TAI.
+- 2023.05: One paper is accepted by IEEE TNNLS.
+- 2022.12: One paper is accepted by Information Fusion.
 
 Research Interests
 ======
@@ -76,14 +77,15 @@ Useful Links
 
 Selected Honors
 ======
-1. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2023.
-2. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2022.
-3. **China National Scholarship for Graduate**, Ministry of Education of P.R. China, 2021. (The highest level of scholarship for graduate set by the government of China)
-4. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2021.
-5. Outstanding master student of NPU, Northwestern Polytechnical University, 2018.
-6. **China National Scholarship for Undergraduate**, Ministry of Education of P.R. China, 2016. (The highest level of scholarship for undergraduate set by the government of China)
-7. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2015.
-8. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
+1. Outstanding PhD graduate of NPU, Northwestern Polytechnical University, 2024.
+2. outstanding PhD student of NPU, Northwestern Polytechnical University, 2023.
+3. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2022.
+4. **China National Scholarship for Graduate**, Ministry of Education of P.R. China, 2021. (The highest level of scholarship for graduate set by the government of China)
+5. Outstanding PhD student of NPU, Northwestern Polytechnical University, 2021.
+6. Outstanding master student of NPU, Northwestern Polytechnical University, 2018.
+7. **China National Scholarship for Undergraduate**, Ministry of Education of P.R. China, 2016. (The highest level of scholarship for undergraduate set by the government of China)
+8. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2015.
+9. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
 
 Selected Projects
 ======
