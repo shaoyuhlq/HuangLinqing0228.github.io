@@ -32,7 +32,7 @@ Artificial Intelligence Security.
 
 Work Experience
 =====
-- 2024.02 --, School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, Assistant Professor.
+- 2024.02 --, School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, Reasearch Assistant Professor.
 
 Research Experience
 ======
@@ -46,7 +46,7 @@ Education Experience
 
 Selected Publications
 ======
-1. [**<font color="red">IEEE TCYB, ESI Highly Cited Paper (2023 May/Jun, Jul/Aug, Sep/Oct)</font>**] **Linqing Huang**, Zhun-ga Liu, and Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Cybernetics</font> (**2022-IF: 11.8**), 2023. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
+1. [**<font color="red">IEEE TCYB, ESI Highly Cited Paper (2023 May/Jun, Jul/Aug, Sep/Oct, Nov/Dec)</font>**] **Linqing Huang**, Zhun-ga Liu, and Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Cybernetics</font> (**2022-IF: 11.8**), 2023. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2023. [[PDF](https://ieeexplore.ieee.org/document/10135140)]
 3. [**<font color="red">IEEE TNNLS, ESI Highly Cited Paper (2021 Nov/Dec)</font>**] Zhunga Liu, **Linqing Huang**, Kuang Zhou, and Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9108588)]
 4. [**<font color="red">IEEE TAI</font>**] **Linqing Huang**. Combination of Information in Labeled and Unlabeled Data via Evidence Theory. <font color="blue">IEEE Transactions on Artificial Intelligence</font>, 2023. [[PDF](https://ieeexplore.ieee.org/abstract/document/10253965)]
