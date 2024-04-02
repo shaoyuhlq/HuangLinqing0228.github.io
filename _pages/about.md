@@ -87,11 +87,6 @@ Selected Honors
 8. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2015.
 9. **National Encouragement Scholarship for Undergraduate**, Education Department of Henan Province, 2014.
 
-Selected Projects
-======
-1. 基于证据理论的数据迁移融合目标识别，西北工业大学博士论文创新基金(重点)，2021.01-2023.12.
-2. 基于证据推理的多源迁移融合数据分类，西北工业大学研究生创新创意种子基金，2019.01-2019.12.
-3. 基于迁移学习的异质遥感数据变化检测，西北工业大学研究生创新创意种子基金，2018.01-2018.12.
 
 Academic Services
 ======
