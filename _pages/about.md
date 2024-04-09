@@ -38,12 +38,6 @@ Research Experience
 ======
 - 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting PhD Student, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
 
-Education Experience
-======
-- 2020.02 -- 2023.12, Northwestern Polytechnical University (NPU), PhD.
-- 2017.09 -- 2020.03, Northwestern Polytechnical University (NPU), Master.
-- 2013.09 -- 2017.06, Henan University (HENU), Bachelor.
-
 Selected Publications
 ======
 1. [**<font color="red">IEEE TCYB, ESI Highly Cited Paper (2023 May/Jun, Jul/Aug, Sep/Oct, Nov/Dec)</font>**] **Linqing Huang**, Zhun-ga Liu, and Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Cybernetics</font> (**2022-IF: 11.8**), 2023. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
