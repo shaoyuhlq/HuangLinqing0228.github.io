@@ -87,6 +87,7 @@ Selected Honors
 Academic Services
 ======
 Reviewer of journals: 
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Fuzzy Systems (TFS)
