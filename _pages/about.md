@@ -42,27 +42,27 @@ Selected Publications
 ======
 1. [**<font color="red">IEEE TCYB, ESI Highly Cited Paper (2023 May/Jun, Jul/Aug, Sep/Oct, Nov/Dec; 2024 Jan/Feb)</font>**] **Linqing Huang**, Zhun-ga Liu, and Dezert Jean. Cross-domain Pattern Classification with Distribution Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Cybernetics</font> (**2022-IF: 11.8**), 2023. [[PDF](https://ieeexplore.ieee.org/document/9660783)]
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2023. [[PDF](https://ieeexplore.ieee.org/document/10135140)]
-3. [**<font color="red">IEEE TNNLS, ESI Highly Cited Paper (2021 Nov/Dec)</font>**] Zhunga Liu, **Linqing Huang**, Kuang Zhou, and Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9108588)]
-4. [**<font color="red">IEEE TAI</font>**] **Linqing Huang**. Combination of Information in Labeled and Unlabeled Data via Evidence Theory. <font color="blue">IEEE Transactions on Artificial Intelligence</font>, 2023. [[PDF](https://ieeexplore.ieee.org/abstract/document/10253965)]
-5. [**<font color="red">IEEE TNNLS</font>**] Jinfu Fan, **Linqing Huang**, Chaoyu Gong, Yang You, Min  Gan, and Zhongjie Wang. KMT-PLL: K-means Cross-attention Transformer for Partial Label Learning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10384739)]
-6. [**<font color="red">INFFUS</font>**] **Linqing Huang**, Wangbo Zhao, Alan Wee-Chung Liew, and Yang You. An Evidential Combination Method with Multi-color Spaces for Remote Sensing Image Scene Classification. <font color="blue">Information Fusion</font> (**2022-IF: 18.6**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002743)]
-7. [**<font color="red">SCIS</font>**] **Linqing Huang**, zhun-ga Liu, Quan Pan, and Dezert Jean. Evidential Combination of Augmented Multi-source of Information Based on Domain Adaptation. <font color="blue">SCIENCE CHINA-Information Sciences</font> (**2022-IF: 8.8, CCF-A**), 2020. [[PDF](https://link.springer.com/article/10.1007/s11432-020-3080-3)]
-8. [**<font color="red">KBS</font>**] **Linqing Huang**, Jinfu Fan, Wangbo Zhao, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. <font color="blue">Knowledge-Based Systems</font> (**2022-IF: 8.8**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
-9. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, and Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.0**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
-10. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, and Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 5.7**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
-11. [**<font color="red">IEEE GARSS</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024.
+3. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Jinfu Fan, Alan Wee-Chung Liew, and Shi-Lin Wang. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**)
+4. [**<font color="red">IEEE TNNLS, ESI Highly Cited Paper (2021 Nov/Dec)</font>**] Zhunga Liu, **Linqing Huang**, Kuang Zhou, and Thierry Denoeux. Combination of Transferable Classification with Multi-source Domain Adaptation Based on Evidential Reasoning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2021. [[PDF](https://ieeexplore.ieee.org/document/9108588)]
+5. [**<font color="red">IEEE TAI</font>**] **Linqing Huang**. Combination of Information in Labeled and Unlabeled Data via Evidence Theory. <font color="blue">IEEE Transactions on Artificial Intelligence</font>, 2023. [[PDF](https://ieeexplore.ieee.org/abstract/document/10253965)]
+6. [**<font color="red">IEEE TNNLS</font>**] Jinfu Fan, **Linqing Huang**, Chaoyu Gong, Yang You, Min  Gan, and Zhongjie Wang. KMT-PLL: K-means Cross-attention Transformer for Partial Label Learning. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2022-IF: 10.4**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10384739)]
+7. [**<font color="red">INFFUS</font>**] **Linqing Huang**, Wangbo Zhao, Alan Wee-Chung Liew, and Yang You. An Evidential Combination Method with Multi-color Spaces for Remote Sensing Image Scene Classification. <font color="blue">Information Fusion</font> (**2022-IF: 18.6**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002743)]
+8. [**<font color="red">SCIS</font>**] **Linqing Huang**, zhun-ga Liu, Quan Pan, and Dezert Jean. Evidential Combination of Augmented Multi-source of Information Based on Domain Adaptation. <font color="blue">SCIENCE CHINA-Information Sciences</font> (**2022-IF: 8.8, CCF-A**), 2020. [[PDF](https://link.springer.com/article/10.1007/s11432-020-3080-3)]
+9. [**<font color="red">KBS</font>**] **Linqing Huang**, Jinfu Fan, Wangbo Zhao, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. <font color="blue">Knowledge-Based Systems</font> (**2022-IF: 8.8**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
+10. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, and Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.0**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
+11. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, and Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 5.7**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
+12. [**<font color="red">IEEE GARSS</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024.
 
 In Peer Review
 ======
 1. DJCA
-2. MICA
-3. IDAC
-4. MET
-5. MMET
-6. RMST
-7. CFANet
-8. PML-TF
-9. PLZSL
+2. IDAC
+3. MET
+4. MMET
+5. RMST
+6. CFANet
+7. PML-TF
+8. PLZSL
 
 
 Useful Links
