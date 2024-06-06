@@ -17,6 +17,7 @@ I’m actively looking for a few undergrad students to work together. Please fee
 News
 ======
 - 2024.06: One paper is accepted by IEEE TNNLS.
+- 2024.06: I become a reviewer of the IIEEE TPAMI journal.
 - 2024.03: I get the Award for Outstanding PhD graduate of NPU.
 - 2024.02: I join the AI Security Lab led by Prof. Gongshen Liu and Prof. Shilin Wang.
 - 2024.01: One paper is selected as ESI highly cited paper.
