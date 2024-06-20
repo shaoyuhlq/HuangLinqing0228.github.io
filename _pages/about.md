@@ -53,7 +53,7 @@ Selected Publications
 9. [**<font color="red">KBS</font>**] **Linqing Huang**, Jinfu Fan, Wangbo Zhao, and Yang You. A New Multi-source Transfer Learning Method Based on Two-stage Weighted Fusion. <font color="blue">Knowledge-Based Systems</font> (**2022-IF: 8.8**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013296)]
 10. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, and Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2022-IF: 8.0**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 11. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, and Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2022-IF: 5.7**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
-12. [**<font color="red">IEEE GARSS</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024.
+12. [**<font color="red">IEEE GARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024.
 
 In Peer Review
 ======
