@@ -38,7 +38,7 @@ Work Experience
 
 Research Experience
 ======
-- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting PhD Student, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
+- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting Scholar, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
 
 Selected Publications
 ======
