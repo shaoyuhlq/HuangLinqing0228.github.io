@@ -63,9 +63,8 @@ In Peer Review
 3. MET
 4. MMET
 5. RMST
-6. CFANet
-7. PML-TF
-8. PLZSL
+6. PML-TF
+7. PLZSL
 
 
 Useful Links
