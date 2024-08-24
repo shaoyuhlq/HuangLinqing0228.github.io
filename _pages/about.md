@@ -16,6 +16,7 @@ I’m actively looking for a few undergrad students to work together. Please fee
 
 News
 ======
+- 2024.08: I receive funding from the National Natural Science Foundation.
 - 2024.07: One paper is accepted by IEEE TIM.
 - 2024.06: One paper is accepted by IEEE TNNLS.
 - 2024.06: I become a reviewer of journal IEEE TPAMI.
