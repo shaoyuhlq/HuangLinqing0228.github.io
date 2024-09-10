@@ -14,7 +14,7 @@ I’m a Research Assistant Professor in School of Electronic Information and Ele
 
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you have interests!
 
-My Chinese homepage：https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185 (https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
+My Chinese homepage：https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185
 
 News
 ======
