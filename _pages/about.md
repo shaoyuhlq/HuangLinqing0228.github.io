@@ -16,6 +16,8 @@ I’m actively looking for a few undergrad students to work together. Please fee
 
 My chinese homepage：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
 
+[**<font color="red">目前还有一个2025年入学的硕士研究生名额，如果您对我的研究课题感兴趣，请提前跟我联系！</font>**]
+
 News
 ======
 - 2024.08: I receive funding from the National Natural Science Foundation of China.
