@@ -109,7 +109,7 @@ Reviewer of journals:
 - etc
 
 Reviewer of conferences: 
-- International Conference on Intelligent Systems and Computational Intelligence (ICISCI) 2022
+- ICASSP 2025
 
 
 Group
