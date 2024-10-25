@@ -20,7 +20,8 @@ My chinese homepage：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](
 
 News
 ======
-- 2024.08: I receive funding from the National Natural Science Foundation of China.
+- 2024.10: I receive funding from Science and Technology Commission of Shanghai Municipality.
+- 2024.08: I receive funding from National Natural Science Foundation of China.
 - 2024.07: One paper is accepted by IEEE TIM.
 - 2024.06: One paper is accepted by IEEE TNNLS.
 - 2024.06: I become a reviewer of journal IEEE TPAMI.
