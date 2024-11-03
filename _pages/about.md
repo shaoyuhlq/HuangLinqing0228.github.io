@@ -14,7 +14,7 @@ I’m a Research Assistant Professor (Master’s Advisor) in School of Electroni
 
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you have interests!
 
-My chinese homepage：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
+Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
 
 **<font color="red">目前有一个2025年入学的硕士研究生名额，如果您对我的研究课题感兴趣，请提前联系我！</font>**
 
