@@ -112,6 +112,8 @@ Reviewer of journals:
 
 Reviewer of conferences: 
 - ICASSP 2025
+- ICME 2025
+- IJCNN 2025
 
 
 Group
