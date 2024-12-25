@@ -41,7 +41,7 @@ Artificial Intelligence Security.
 
 Work Experience
 =====
-- 2024.02 --, School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, Reasearch Assistant Professor.
+- 2024.02 --, School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, Reasearch Assistant Professor (Master’s Advisor).
 
 Research Experience
 ======
