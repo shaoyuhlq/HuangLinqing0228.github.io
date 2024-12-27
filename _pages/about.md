@@ -20,6 +20,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 News
 ======
+- 2024.12: I was Selected for the Pujiang Project of the Shanghai Magnolia Talent Program.
 - 2024.12: One paper is accepted by ICASSP 2025.
 - 2024.10: I receive funding from Science and Technology Commission of Shanghai Municipality.
 - 2024.08: I receive funding from National Natural Science Foundation of China.
