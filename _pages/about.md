@@ -20,6 +20,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 News
 ======
+- 2025.01: I served as an Area Chair for IJCNN 2025.
 - 2024.12: I was Selected for the Pujiang Project of the Shanghai Magnolia Talent Program.
 - 2024.12: One paper is accepted by ICASSP 2025.
 - 2024.10: I receive funding from Science and Technology Commission of Shanghai Municipality.
@@ -97,6 +98,9 @@ Selected Honors
 
 Academic Services
 ======
+Area Chair of Conferences:
+- International Joint Conference on Neural Networks (IJCNN) 2025.
+
 Reviewer of journals: 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Cybernetics (TCYB)
