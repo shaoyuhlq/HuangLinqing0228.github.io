@@ -20,6 +20,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 News
 ======
+- 2025.02: One paper is accpted by IEEE TSMC-S.
 - 2025.01: I served as an Area Chair for IJCNN 2025.
 - 2024.12: I was Selected for the Pujiang Project of the Shanghai Magnolia Talent Program.
 - 2024.12: One paper is accepted by ICASSP 2025.
