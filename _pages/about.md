@@ -20,7 +20,6 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 News
 ======
-- 2025.03: Two papers are accepted by IEEE ICME 2025.
 - 2025.02: One paper is accepted by IEEE TSMC-S.
 - 2025.01: I serve as an Area Chair for IJCNN 2025.
 - 2024.12: I am Selected for the Pujiang Project of the Shanghai Magnolia Talent Program.
@@ -68,10 +67,8 @@ Based on Evidence Theory for Distribution Inconsistent Data Classification. <fon
 12. [**<font color="red">PR</font>**] Jinfu Fan, Yang Yu, **Linqing Huang**, and Zhongjie Wang. GraphDPI: Partial Label Disambiguation by Graph Representation Learning via Mutual Information Maximization. <font color="blue">Pattern Recognition</font> (**2023-IF: 7.5**), 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006136)]
 13. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, and Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2023-IF: 5.3**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
 14. [**<font color="red">ICASSP 2025</font>**] **Linqing Huang**, Jinfu Fan, Shi-Lin Wang, Gongshen Liu, and Shouxuan Liu. Towards A Distribution Alignment Framework for Incomplete Data Classification. IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025.
-15. [**<font color="red">ICME 2025</font>**] Jinfu Fan, Lijiang Nan, Ruihan Wang, and **Linqing Huang\* (Corresponding author)**. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels. IEEE International Conference on Multimedia and Expo, 2025.
-16. [**<font color="red">ICME 2025</font>**] Jinfu Fan, Lijiang Nan, Xiaowei Zhang, and **Linqing Huang\* (Corresponding author)**. CLIP-driven Zero-shot Learning with Ambiguous Labels. IEEE International Conference on Multimedia and Expo, 2025.
-17. [**<font color="red">IGARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024. [[PDF](https://ieeexplore.ieee.org/document/10641715)]
-18. [**<font color="red">IGARSS 2025</font>**] **Linqing Huang**, Bingan Chen, Yumei Hu, Jing Zhu, Ze Zhang, Shilin Wang, and Jinfu Fan. Handcrafted and Deep Feature Aggregation Network for Identification of Real and Fake Satellite Image with Limited Data. IEEE International Geoscience and Remote Sensing Symposium, 2025.
+15. [**<font color="red">IGARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024. [[PDF](https://ieeexplore.ieee.org/document/10641715)]
+16. [**<font color="red">IGARSS 2025</font>**] **Linqing Huang**, Bingan Chen, Yumei Hu, Jing Zhu, Ze Zhang, Shilin Wang, and Jinfu Fan. Handcrafted and Deep Feature Aggregation Network for Identification of Real and Fake Satellite Image with Limited Data. IEEE International Geoscience and Remote Sensing Symposium, 2025.
 
 In Peer Review
 ======
