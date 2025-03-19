@@ -71,6 +71,7 @@ Based on Evidence Theory for Distribution Inconsistent Data Classification. <fon
 15. [**<font color="red">ICME 2025</font>**] Jinfu Fan, Lijiang Nan, Ruihan Wang, and **Linqing Huang\* (Corresponding author)**. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels. IEEE International Conference on Multimedia and Expo, 2025.
 16. [**<font color="red">ICME 2025</font>**] Jinfu Fan, Lijiang Nan, Xiaowei Zhang, and **Linqing Huang\* (Corresponding author)**. CLIP-driven Zero-shot Learning with Ambiguous Labels. IEEE International Conference on Multimedia and Expo, 2025.
 17. [**<font color="red">IGARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. IEEE International Geoscience and Remote Sensing Symposium, 2024. [[PDF](https://ieeexplore.ieee.org/document/10641715)]
+18. [**<font color="red">IGARSS 2025</font>**] **Linqing Huang**, Bingan Chen, Yumei Hu, Jing Zhu, Ze Zhang, Shilin Wang, and Jinfu Fan. Handcrafted and Deep Feature Aggregation Network for Identification of Real and Fake Satellite Image with Limited Data. IEEE International Geoscience and Remote Sensing Symposium, 2025.
 
 In Peer Review
 ======
