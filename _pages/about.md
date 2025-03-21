@@ -78,14 +78,11 @@ In Peer Review
 ======
 1. DJCA
 2. IDAC
-3. MMET
-4. RMST
-5. PML-TF
-6. PLZSL
-7. CSCM
-8. TLMM
-9. CLIP-PZSL
-10. PML-DLE
+3. RMST
+4. PML-TF
+5. PLZSL
+6. CSCM
+7. CLIP-PZSL
 
 
 Useful Links
