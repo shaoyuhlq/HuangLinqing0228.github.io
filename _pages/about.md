@@ -17,7 +17,7 @@ I’m actively looking for a few undergrad students to work together. Please fee
 Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
 
 **<font color="red">目前有一个2026年入学的硕士研究生名额，如果您对我的研究课题感兴趣，请提前联系我！</font>**
-**<font color="red">特别欢迎有理想、有学术追求的同学来课题组读研究生，本科期间参加过数学建模、数学竞赛、ACM程序设计大赛等竞赛以及发表过学术论文的同学将优先考虑。</font>**
+**<font color="red">特别欢迎有理想、有学术追求的同学来课题组读研究生，本科期间获得过数学建模、数学竞赛、ACM程序设计大赛等竞赛奖项、发表过学术论文的同学将优先考虑。</font>**
 
 News
 ======
