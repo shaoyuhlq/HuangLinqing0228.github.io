@@ -20,7 +20,9 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 **<font color="red">特别欢迎有理想、有学术追求的同学来课题组读研究生，本科期间获得过数学建模、数学竞赛、ACM程序设计大赛等竞赛奖项、发表过学术论文的同学将优先考虑。</font>**
 
-**<font color="red">希望您：不甘平凡、不骄不躁；有责任担当、执行力强；在编程、数学与英语等方面具备扎实的基础。</font>**
+**<font color="red">希望您：不甘平凡、不骄不躁；有责任担当、执行力强、喜欢钻研；在编程、数学与英语等方面具备扎实的基础。</font>**
+
+**<font color="red">课题组全年招收本科生研究助理，特别欢迎成绩名列前茅，立志从事科研，将来打算保研或海外深造的学生加入团队。</font>**
 
 News
 ======
