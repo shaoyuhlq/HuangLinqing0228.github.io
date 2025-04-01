@@ -56,7 +56,7 @@ Work Experience
 
 Research Experience
 ======
-- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting Scholar, advisor: [Yang You](https://www.comp.nus.edu.sg/~youy/).
+- 2022.07 -- 2023.07, School of Computing (SoC) at National University of Singapore (NUS), Visiting Scholar.
 
 Selected Publications
 ======
@@ -94,8 +94,6 @@ In Peer Review
 Useful Links
 ======
 1. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University (GU)](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
-2. [High Performance Computing for Artifical Intelligence (HPC-AI) Lab at National University of Signapore (NUS)](https://ai.comp.nus.edu.sg/)
-
 
 Selected Honors
 ======
