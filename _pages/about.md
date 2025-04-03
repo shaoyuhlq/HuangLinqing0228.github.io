@@ -22,7 +22,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 **<font color="red">希望您：不甘平凡、不骄不躁；有责任担当、执行力强、喜欢钻研；在编程、数学与英语等方面具备扎实的基础。</font>**
 
-**<font color="red">课题组全年招收本科生开展研究，特别欢迎成绩名列前茅、立志从事科研、将来打算保研或到海外深造的同学加入。</font>**
+**<font color="red">课题组全年招收本科生开展研究，特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入。</font>**
 
 News
 ======
@@ -64,7 +64,7 @@ Selected Publications
 2. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Wangbo Zhao, Yong Liu, Duo Yang, Alan Wee-Chung Liew, and Yang You. An Evidential Multi-target Domain Adaptation Method Based on Weighted Fusion for Cross-domain Pattern Classification. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2023. [[PDF](https://ieeexplore.ieee.org/document/10135140)]
 3. [**<font color="red">IEEE TNNLS</font>**] **Linqing Huang**, Jinfu Fan, and Alan Wee-Chung Liew. Integration of Multi-kinds Imputation with Covariance Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (**2023-IF: 10.2**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10571355)]
 4. [**<font color="red">IEEE TSMC-S</font>**] **Linqing Huang**, Jinfu Fan, Shilin Wang, Kai Xu, and Yong Liu. A New Multi-target Domain Adaptation Method
-Based on Evidence Theory for Distribution Inconsistent Data Classification. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems </font> (**2023-IF: 8.6**), 2025.
+Based on Evidence Theory for Distribution Inconsistent Data Classification. <font color="blue">IEEE Transactions on Systems, Man and Cybernetics: Systems </font> (**2023-IF: 8.6**), 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10944433)]
 5. [**<font color="red">IEEE TIM</font>**] **Linqing Huang**, and Gongshen Liu. Convolutional Feature Aggregation Network with Self-supervised Learning and Decision Fusion for SAR Target Recognition. <font color="blue">IEEE Transactions on Instrumentation and Measurement</font> (**2023-IF: 5.6**), 2024. [[PDF](https://ieeexplore.ieee.org/document/10636296/keywords#keywords)]
 6. [**<font color="red">IEEE TIM</font>**] **Linqing Huang**, Jinfu Fan, Shilin Wang, and Alan Wee-Chung Liew. Multi-source Multi-target Domain Adaptation Based on Evidence Theory. <font color="blue">IEEE Transactions on Instrumentation and Measurement</font> (**2023-IF: 5.6**), 2025.
 7. [**<font color="red">IEEE TAI</font>**] **Linqing Huang**. Combination of Information in Labeled and Unlabeled Data via Evidence Theory. <font color="blue">IEEE Transactions on Artificial Intelligence</font>, 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10253965)]
