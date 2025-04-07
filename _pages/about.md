@@ -90,11 +90,6 @@ In Peer Review
 6. CSCM
 7. CLIP-PZSL
 
-
-Useful Links
-======
-1. [Institute for Integrated and Intelligent Systems (IIIS) at Griffith University (GU)](https://www.griffith.edu.au/institute-integrated-intelligent-systems/our-researchers)
-
 Selected Honors
 ======
 1. **China National Scholarship for Graduate**, Ministry of Education of P.R. China, 2021. (The highest level of scholarship for graduate set by the government of China)
@@ -105,11 +100,12 @@ Selected Honors
 
 Academic Services
 ======
-Area Chair of Conferences:
+Area Chair of conferences:
 - International Joint Conference on Neural Networks (IJCNN) 2025.
 
 Reviewer of journals: 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Fuzzy Systems (TFS)
@@ -118,7 +114,6 @@ Reviewer of journals:
 - IEEE Transactions on Intelligent Vehicles (TIV)
 - IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-- Frontiers of Information Technology and Electronic Engineering (FITEE)
 - Machine Intelligence Research (MIR)
 - etc
 
