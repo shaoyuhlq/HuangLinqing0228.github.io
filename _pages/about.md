@@ -30,7 +30,7 @@ News
 - 2025.03: One paper is accepted by IEEE TIM.
 - 2025.02: One paper is accepted by IEEE TSMC-S.
 - 2025.01: I serve as an Area Chair for IJCNN 2025.
-- 2024.12: I am Selected for the Pujiang Project of the Shanghai Magnolia Talent Program.
+- 2024.12: I am Selected for Pujiang Project of Shanghai Magnolia Talent Program.
 - 2024.12: One paper is accepted by ICASSP 2025.
 - 2024.10: I receive funding from Science and Technology Commission of Shanghai Municipality.
 - 2024.08: I receive funding from National Natural Science Foundation of China.
