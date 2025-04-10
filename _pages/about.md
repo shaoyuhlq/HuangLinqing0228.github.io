@@ -26,6 +26,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 News
 ======
+- 2025.04: Our team set up the "AI and Cognize Security Lab" led by Prof. Xinghao Jiang (Vice President of Shanghai Jiao Tong University)
 - 2025.03: One paper is accepted by ICME 2025.
 - 2025.03: One paper is accepted by IEEE TIM.
 - 2025.02: One paper is accepted by IEEE TSMC-S.
@@ -37,7 +38,7 @@ News
 - 2024.07: One paper is accepted by IEEE TIM.
 - 2024.06: One paper is accepted by IEEE TNNLS.
 - 2024.06: I become a reviewer of journal IEEE TPAMI.
-- 2024.02: I join the AI Security Lab led by Prof. Gongshen Liu and Prof. Shilin Wang.
+- 2024.02: I join the "AI Security Lab" led by Prof. Gongshen Liu.
 - 2024.01: One paper is selected as ESI highly cited paper.
 - 2023.12: One paper is accepted by IEEE TNNLS.
 - 2023.09: One paper is accepted by IEEE TAI.
