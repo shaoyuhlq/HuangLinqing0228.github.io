@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-I’m a Research Assistant Professor (Master’s Advisor) in School of Electronic Information and Electrical Engineering (SEIEE) at Shanghai Jiao Tong University (SJTU). 
+I’m a Research Assistant Professor (Master’s Advisor) in School of Computer Science at Shanghai Jiao Tong University (SJTU). 
 
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you are interested!
 
