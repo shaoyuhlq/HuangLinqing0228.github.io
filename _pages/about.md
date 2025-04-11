@@ -26,7 +26,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 News
 ======
-- 2025.04: Our team set up the "AI and Cognize Security Lab" led by Prof. Xinghao Jiang (Vice President of Shanghai Jiao Tong University)
+- 2025.04: Our team set up the "AI and Cognization Security Lab" led by Prof. Xinghao Jiang (Vice President of Shanghai Jiao Tong University)
 - 2025.03: One paper is accepted by ICME 2025.
 - 2025.03: One paper is accepted by IEEE TIM.
 - 2025.02: One paper is accepted by IEEE TSMC-S.
