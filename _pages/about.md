@@ -47,9 +47,9 @@ News
 
 Research Interests
 ======
-Low-quality Data Mining and Learning;  
-Remote Sensing Image Understanding;     
-Artificial Intelligence Security.
+- Low-quality Data Mining and Learning;  
+- Remote Sensing Image Understanding;     
+- Artificial Intelligence Security.
 
 Work Experience
 =====
