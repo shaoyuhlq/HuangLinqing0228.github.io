@@ -87,12 +87,11 @@ Based on Evidence Theory for Distribution Inconsistent Data Classification. <fon
 In Peer Review
 ======
 1. DJCA
-2. IDAC
-3. RMST
-4. PML-TF
-5. PLZSL
-6. CSCM
-7. CLIP-PZSL
+2. RMST
+3. PML-TF
+4. PLZSL
+5. CSCM
+6. CLIP-PZSL
 
 Selected Honors
 ======
