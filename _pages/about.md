@@ -122,7 +122,7 @@ Reviewer of journals:
 - etc
 
 Reviewer of conferences: 
-- ACM MM 2025
+- ACMMM 2025
 - ICASSP 2025
 - ICME 2025
 - IJCNN 2025
