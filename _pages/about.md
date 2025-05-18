@@ -91,8 +91,7 @@ In Peer Review
 2. RMST
 3. PML-TF
 4. PLZSL
-5. CSCM
-6. CLIP-PZSL
+5. CLIP-PZSL
 
 Selected Honors
 ======
