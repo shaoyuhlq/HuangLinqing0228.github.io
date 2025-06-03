@@ -116,6 +116,7 @@ Reviewer of journals:
 - IEEE Transactions on Fuzzy Systems (TFS)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC-S)
 - IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Intelligent Vehicles (TIV)
 - IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
