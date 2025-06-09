@@ -22,7 +22,7 @@ Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx
 
 **<font color="red">希望您：不甘平凡、不骄不躁；有责任担当、执行力强、喜欢钻研；在编程、数学与英语等方面具备扎实的基础。</font>**
 
-**<font color="red">课题组全年招收本科生开展研究，特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入。</font>**
+**<font color="red">课题组全年招收本科生开展研究（PRP、大创等），特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入。</font>**
 
 News
 ======
