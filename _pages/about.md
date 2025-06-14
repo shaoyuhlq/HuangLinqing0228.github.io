@@ -55,7 +55,7 @@ Research Interests
 
 Work Experience
 =====
-- 2025.05 --, School of Computer Science at Shanghai Jiao Tong University, Reasearch Assistant Professor (Master’s Advisor).
+- 2025.05 --, School of Computer Science at Shanghai Jiao Tong University, Reasearch Assistant Professor (PhD Advisor).
 - 2024.02 -- 2025.05, School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, Reasearch Assistant Professor (Master’s Advisor).
 
 Research Experience
