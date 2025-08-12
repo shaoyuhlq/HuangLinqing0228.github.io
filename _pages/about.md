@@ -124,7 +124,8 @@ Reviewer of journals:
 - Machine Intelligence Research (MIR)
 - etc
 
-Reviewer of conferences: 
+Reviewer of conferences:
+- AAAI 2025
 - ACMMM 2025
 - ICASSP 2025
 - ICME 2025
