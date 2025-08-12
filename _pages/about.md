@@ -29,7 +29,6 @@ News
 - 2025.05: One paper is accpeted by TIM, congratulations to Ze Zhang. 
 - 2025.05: One paper is accepted by MIR.
 - 2025.04: Our team set up the "AI and Cognization Security Lab" led by Prof. Xinghao Jiang (Vice President of Shanghai Jiao Tong University)
-- 2025.03: One paper is accepted by ICME 2025.
 - 2025.03: One paper is accepted by IEEE TIM.
 - 2025.02: One paper is accepted by IEEE TSMC-S.
 - 2025.01: I serve as an Area Chair for IJCNN 2025.
@@ -84,11 +83,10 @@ Based on Evidence Theory for Distribution Inconsistent Data Classification. <fon
 17. [**<font color="red">CJA</font>**] Zhunga Liu, Jingfei Duan, **Linqing Huang**, Jean DEZERT, and Yongqiang Zhao. Combination of Classifiers with Incomplete Frames of Discernment. <font color="blue">Chinese Journal of Aeronautics</font> (**2024-IF: 5.7**), 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S1000936121001758)]
 18. [**<font color="red">NEUCOM</font>**] Mingze Jiang, Jinfu Fan, **Linqing Huang**, Zhencun Jiang, Qingkai Bu. MDiffSR: Mutual information and diffusion model in image super-resolution. <font color="blue">Neurocomputing</font> (**2024-IF: 6.5**), 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231225010446)] 
 19. [**<font color="red">ICASSP 2025</font>**] **Linqing Huang**, Jinfu Fan, Shi-Lin Wang, Gongshen Liu, and Shouxuan Liu. Towards A Distribution Alignment Framework for Incomplete Data Classification. <font color="blue">IEEE International Conference on Acoustics, Speech, and Signal Processing</font>, 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10890244)]
-20. [**<font color="red">ICME 2025</font>**] Jinfu Fan, Lijiang Nan, Ruihan Wang, and **Linqing Huang\* (Corresponding author)**. Learning Discriminative Label Embeddings for Multi-Label Learning with Ambiguous Labels. <font color="blue">IEEE International Conference on Multimedia and Expo</font>, 2025.
-21. [**<font color="red">ICIP 2025</font>**] **Linqing Huang**, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and Jinfu Fan. A New Multi-source Distributed Transfer Learning Framework. <font color="blue">IEEE International Conference on Image Processing</font>, 2025.
-22. [**<font color="red">IEEE SMC 2025</font>**] Tingxuan Gu, **Linqing Huang\* (Corresponding author)**, and Gongshen Liu. Graph Topology-aware Refinement Network for User Role Classification in Social Networks. <font color="blue">IEEE International Conference on Systems, Man, and Cybernetics</font>, 2025. 
-23. [**<font color="red">IGARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024. [[PDF](https://ieeexplore.ieee.org/document/10641715)]
-24. [**<font color="red">IGARSS 2025</font>**] **Linqing Huang**, Bingan Chen, Yumei Hu, Jing Zhu, Ze Zhang, Shilin Wang, and Jinfu Fan. Handcrafted and Deep Feature Aggregation Network for Identification of Real and Fake Satellite Image with Limited Data. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2025.
+20. [**<font color="red">ICIP 2025</font>**] **Linqing Huang**, Jing Zhu, Yumei Hu, Shilin Wang, Gongshen Liu, and Jinfu Fan. A New Multi-source Distributed Transfer Learning Framework. <font color="blue">IEEE International Conference on Image Processing</font>, 2025.
+21. [**<font color="red">IEEE SMC 2025</font>**] Tingxuan Gu, **Linqing Huang\* (Corresponding author)**, and Gongshen Liu. Graph Topology-aware Refinement Network for User Role Classification in Social Networks. <font color="blue">IEEE International Conference on Systems, Man, and Cybernetics</font>, 2025.
+22. [**<font color="red">IGARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024. [[PDF](https://ieeexplore.ieee.org/document/10641715)]
+23. [**<font color="red">IGARSS 2025</font>**] **Linqing Huang**, Bingan Chen, Yumei Hu, Jing Zhu, Ze Zhang, Shilin Wang, and Jinfu Fan. Handcrafted and Deep Feature Aggregation Network for Identification of Real and Fake Satellite Image with Limited Data. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2025.
 
 In Peer Review
 ======
