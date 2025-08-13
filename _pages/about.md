@@ -125,7 +125,7 @@ Reviewer of journals:
 - etc
 
 Reviewer of conferences:
-- AAAI 2025
+- AAAI 2026
 - ACMMM 2025
 - ICASSP 2025
 - ICME 2025
