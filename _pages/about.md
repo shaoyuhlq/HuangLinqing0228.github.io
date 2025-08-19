@@ -88,13 +88,6 @@ Based on Evidence Theory for Distribution Inconsistent Data Classification. <fon
 22. [**<font color="red">IGARSS 2024</font>**] **Linqing Huang**, Jinfu Fan, and Kai Xu. SAR Target Recognition Based on Convolutional Feature Aggregation and Decision Combination. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2024. [[PDF](https://ieeexplore.ieee.org/document/10641715)]
 23. [**<font color="red">IGARSS 2025</font>**] **Linqing Huang**, Bingan Chen, Yumei Hu, Jing Zhu, Ze Zhang, Shilin Wang, and Jinfu Fan. Handcrafted and Deep Feature Aggregation Network for Identification of Real and Fake Satellite Image with Limited Data. <font color="blue">IEEE International Geoscience and Remote Sensing Symposium</font>, 2025.
 
-In Peer Review
-======
-1. DJCA
-2. RMST
-3. PML-TF
-4. PLZSL
-5. CLIP-PZSL
 
 Selected Honors
 ======
