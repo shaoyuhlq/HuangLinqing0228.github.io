@@ -15,14 +15,12 @@ I’m a Research Assistant Professor (PhD Advisor) in School of Computer Science
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you are interested!
 
 Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
-<!--
-**<font color="blue">目前有一个2026年入学的硕士研究生名额，如果对我的研究课题感兴趣，请提前联系我！（注：请保持最基本的坦诚，不要群发邮件，谢谢）</font>**
+
+[//]: **<font color="blue">目前有一个2026年入学的硕士研究生名额，如果对我的研究课题感兴趣，请提前联系我！（注：请保持最基本的坦诚，不要群发邮件，谢谢）</font>**
 
 **<font color="blue">特别欢迎有理想、有学术追求的同学来课题组读研究生，本科期间获得过数学建模、数学竞赛、ACM程序设计大赛等竞赛奖项、发表过学术论文的同学将优先考虑。</font>**
 
 **<font color="blue">希望你：不甘平凡、不骄不躁；有责任担当、执行力强、喜欢钻研；在编程、数学与英语等方面具备扎实的基础。</font>**
-
--->
 
 **<font color="blue">课题组全年招收本科生开展研究（PRP、大创等），特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入。</font>**
 
