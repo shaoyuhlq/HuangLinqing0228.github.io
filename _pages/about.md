@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-I’m a Research Assistant Professor (PhD Advisor) in School of Computer Science at Shanghai Jiao Tong University (SJTU), and a member of AI and Cognization Security Lab. 
+I’m a Research Assistant Professor (PhD Advisor) in School of Computer Science at Shanghai Jiao Tong University (SJTU), and a member of Artificial Intelligence and Cognization Security (AICS) Lab. 
 
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you are interested!
 
