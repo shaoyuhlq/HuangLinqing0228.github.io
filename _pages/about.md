@@ -128,7 +128,6 @@ Reviewer of conferences:
 Group
 ======
 Master Students:
-- Yuyi Zhang (Incoming master student), 2026.09-
 - Xinwei Zhu, 2025.09-
 - Zining Lu (co-supervised with Prof. Gongshen Liu), 2025.09-
 - Tingxuan Gu (IEEE SMC 2025, ), 2024.09-
