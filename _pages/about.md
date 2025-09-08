@@ -127,6 +127,9 @@ Reviewer of conferences:
 
 Group
 ======
+PhD Students:
+Yuchen Wang (Incoming, Co-supervised with Junchi Yang at SII), 2026.09-
+
 Master Students:
 - Xinwei Zhu, 2025.09-
 - Zining Lu (co-supervised with Prof. Gongshen Liu), 2025.09-
