@@ -128,7 +128,8 @@ Reviewer of conferences:
 Group
 ======
 PhD Students:
-- Yuchen Wang (Incoming, co-supervised with Junchi Yan at SII), 2026.09-
+- Yuchen Wang (Incoming, co-supervised with Junchi Yan), 2026.09-
+- Yonggen Li (Incoming, co-supervised with Junchi Yan), 2026.09-
 
 Master Students:
 - Zhehao Zhao (Incoming), 2026.09-
