@@ -14,7 +14,7 @@ I’m a Research Assistant Professor (PhD Advisor) in School of Computer Science
 
 I’m actively looking for a few undergrad students to work together. Please feel free to drop me an email with your CV if you are interested!
 
-Personal homepage in Chinese：[https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=185)
+Personal homepage in Chinese：[https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinqing.html](https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinqing.html) 
 
 <!-- **<font color="blue">目前有一个2026年入学的硕士研究生名额，如果对我的研究课题感兴趣，请提前联系我！（注：请保持最基本的坦诚，不要群发邮件，谢谢）</font>** -->
 
