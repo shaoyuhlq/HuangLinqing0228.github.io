@@ -132,7 +132,6 @@ PhD Students:
 - Yonggen Li (Incoming, co-supervised with Junchi Yan), 2026.09-
 
 Master Students:
-- Zhehao Zhao (Incoming), 2026.09-
 - Xinwei Zhu, 2025.09-
 - Zining Lu (co-supervised with Prof. Gongshen Liu), 2025.09-
 - Tingxuan Gu (IEEE SMC 2025, ), 2024.09-
