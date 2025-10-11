@@ -26,6 +26,7 @@ Personal homepage in Chinese：[https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinqin
 
 News
 ======
+- 2025.10: One paper is accpeted by TCSVT, congratulations to co-authors.
 - 2025.05: One paper is accpeted by TIM, congratulations to Ze Zhang. 
 - 2025.05: One paper is accepted by MIR.
 - 2025.04: Our team set up the "AI and Cognization Security Lab" led by Prof. Xinghao Jiang (Vice President of Shanghai Jiao Tong University)
