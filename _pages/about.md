@@ -16,6 +16,8 @@ I’m actively looking for a few undergrad students to work together. Please fee
 
 Personal homepage in Chinese：[https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinqing.html](https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinqing.html) 
 
+AICS Lab: [https://www.cs.sjtu.edu.cn/yjjg/806.html]
+
 <!-- **<font color="blue">目前有一个2026年入学的硕士研究生名额，如果对我的研究课题感兴趣，请提前联系我！（注：请保持最基本的坦诚，不要群发邮件，谢谢）</font>** -->
 
 <!-- **<font color="blue">特别欢迎有理想、有学术追求的同学来课题组读研究生，本科期间获得过数学建模、数学竞赛、ACM程序设计大赛等竞赛奖项、发表过学术论文的同学将优先考虑。</font>** -->
