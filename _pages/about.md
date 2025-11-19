@@ -107,6 +107,7 @@ Selected Honors
 Academic Services
 ======
 Area Chair of conferences:
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025.
 - International Joint Conference on Neural Networks (IJCNN) 2025.
 
 Reviewer of journals: 
@@ -126,7 +127,7 @@ Reviewer of journals:
 Reviewer of conferences:
 - AAAI 2026
 - ACMMM 2025
-- ICASSP 2025
+- ICASSP 2025/2026
 - ICME 2025
 - IJCNN 2025
 
