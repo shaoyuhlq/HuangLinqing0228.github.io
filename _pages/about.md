@@ -28,6 +28,7 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
+- 2025.11: I serve as an Area Chair for ICASSP 2025.
 - 2025.10: One paper is accpeted by IJAR (CCF-B).
 - 2025.10: One paper is accpeted by TCSVT, congratulations to co-authors.
 - 2025.05: One paper is accpeted by TIM, congratulations to Ze Zhang. 
