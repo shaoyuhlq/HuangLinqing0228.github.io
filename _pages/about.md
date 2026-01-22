@@ -28,6 +28,7 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
+- 2026.01: I serve as an Area Chair for WCCI 2026 - IJCNN.
 - 2026.01: One paper is accepted by ICASSP 2026, congratulations to co-authors.
 - 2025.11: I serve as an Area Chair for ICASSP 2026.
 - 2025.10: One paper is accpeted by IJAR (CCF-B).
