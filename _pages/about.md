@@ -112,7 +112,7 @@ Academic Services
 ======
 Area Chair of conferences:
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026.
-- International Joint Conference on Neural Networks (IJCNN) 2025.
+- International Joint Conference on Neural Networks (IJCNN) 2025/2026.
 
 Reviewer of journals: 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -128,12 +128,13 @@ Reviewer of journals:
 - Machine Intelligence Research (MIR)
 - etc
 
-Reviewer of conferences:
+Reviewer or PC member of conferences:
+- IJCAI 2026
 - AAAI 2026
 - ACMMM 2025
 - ICASSP 2025/2026
 - ICME 2025/2026
-- IJCNN 2025
+- IJCNN 2025/2026
 
 
 Group
