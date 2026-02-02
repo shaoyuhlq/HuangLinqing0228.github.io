@@ -28,9 +28,10 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
-- 2026.01: I serve as a Junior Editorial Board for Intelligence & Robotics (2024-IF: 2.3).
+- 2026.01: I serve as a Junior Editorial Board Member for Intelligence & Robotics (2024-IF: 2.3).
 - 2026.01: I serve as an Area Chair for WCCI 2026 - IJCNN.
 - 2026.01: One paper is accepted by ICASSP 2026, congratulations to co-authors.
+- 2025.12: I serve as a Youth Editorial Board Member for Digital Twins and Applications (EI).
 - 2025.11: I serve as an Area Chair for ICASSP 2026.
 - 2025.10: One paper is accpeted by IJAR (CCF-B).
 - 2025.10: One paper is accpeted by TCSVT, congratulations to co-authors.
@@ -111,6 +112,10 @@ Selected Honors
 
 Academic Services
 ======
+Junior or Youth Editorial Board Memeber
+- Intelligence & Robotics
+- Digital Twins and Applications 
+
 Area Chair of conferences:
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026.
 - International Joint Conference on Neural Networks (IJCNN) 2025/2026.
