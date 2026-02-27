@@ -116,6 +116,7 @@ Selected Honors
 Academic Services
 ======
 Junior or Youth Editorial Board Memeber
+- ENGINEERING Information Technology & Electronic Engineering
 - Intelligence & Robotics
 - Digital Twins and Applications 
 
