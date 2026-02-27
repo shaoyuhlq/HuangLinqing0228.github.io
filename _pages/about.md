@@ -28,6 +28,7 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
+- 2026.02: I serve as a Youth Editorial Board Member for ENGINEERING Information Technology & Electronic Engineering (2024-IF: 2.9).
 - 2026.02: One papers is accepted by CVPR 2026.
 - 2026.02: Two papers are accepted by PAKDD 2026 (oral), congratulations to co-authors.
 - 2026.01: I serve as a Junior Editorial Board Member for Intelligence & Robotics (2024-IF: 2.3).
