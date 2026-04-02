@@ -26,6 +26,8 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 **<font color="blue">课题组全年招收本科生开展研究（PRP、大创等），特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入 (邮件请注明来意，同时附上成绩单和个人简历，谢谢！)。</font>**
 
+**<font color="blue">请不要给课题组的老师们群发邮件，谢谢！。</font>**
+
 News
 ======
 - 2026.03:  One papers is accepted by Neurocomputing.
