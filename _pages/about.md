@@ -24,16 +24,16 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 <!-- **<font color="blue">希望你：不甘平凡、不骄不躁；有责任担当、执行力强、喜欢钻研；在编程、数学与英语等方面具备扎实的基础。</font>** -->
 
-**<font color="blue">课题组全年招收本科生开展研究（PRP、大创等），特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入 (邮件请注明来意，同时附上成绩单和个人简历，谢谢！)。</font>**
+**<font color="blue">课题组全年招收本科生开展研究（PRP、大创等），特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入 (邮件请注明来意，同时附上成绩单和个人简历)。</font>**
 
-**<font color="blue">请不要给课题组的老师们群发邮件，谢谢！</font>**
+**<font color="blue">请不要给课题组的老师们群发邮件，谢谢。</font>**
 
 News
 ======
-- 2026.03:  One papers is accepted by Neurocomputing.
-- 2026.03: One papers is accepted by ICME 2026, congratulations to co-authors.
+- 2026.03:  One paper is accepted by Neurocomputing.
+- 2026.03: One paper is accepted by ICME 2026, congratulations to co-authors.
 - 2026.02: I serve as a Youth Editorial Board Member for ENGINEERING Information Technology & Electronic Engineering (2024-IF: 2.9).
-- 2026.02: One papers is accepted by CVPR 2026.
+- 2026.02: One paper is accepted by CVPR 2026.
 - 2026.02: Two papers are accepted by PAKDD 2026 (oral), congratulations to co-authors.
 - 2026.01: I serve as a Junior Editorial Board Member for Intelligence & Robotics (2024-IF: 2.3).
 - 2026.01: I serve as an Area Chair for WCCI 2026 - IJCNN.
