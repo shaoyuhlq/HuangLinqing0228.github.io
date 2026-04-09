@@ -30,7 +30,8 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
-- 2026.03:  One paper is accepted by Neurocomputing.
+- 2026.04: One paper is accepted by IEEE JSTARS, congratulations to co-authors.
+- 2026.03: One paper is accepted by Neurocomputing.
 - 2026.03: One paper is accepted by ICME 2026, congratulations to co-authors.
 - 2026.02: I serve as a Youth Editorial Board Member for ENGINEERING Information Technology & Electronic Engineering (2024-IF: 2.9).
 - 2026.02: One paper is accepted by CVPR 2026.
