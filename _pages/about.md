@@ -28,6 +28,7 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
+- 2026.05: One paper is accepted by IJCAI 2026.
 - 2026.04: One paper is accepted by EAAI.
 - 2026.04: One paper is accepted by IEEE JSTARS, congratulations to co-authors.
 - 2026.03: One paper is accepted by Neurocomputing.
