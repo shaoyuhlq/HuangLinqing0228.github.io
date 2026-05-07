@@ -154,7 +154,7 @@ Reviewer of journals:
 Reviewer or PC member of conferences:
 - IJCAI 2026
 - AAAI 2026
-- ACMMM 2025
+- ACMMM 2025/2026
 - ICASSP 2025/2026
 - ICME 2025/2026
 - IJCNN 2025/2026
