@@ -28,7 +28,7 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
-- 2026.06: One paper is accepted by TCSVT.
+- 2026.06: One paper is accepted by IEEE TCSVT.
 - 2026.06: One paper is accepted by EITEE.
 - 2026.05: One paper is accepted by Neural Networks, congratulations to co-authors.
 - 2026.05: One paper is accepted by IJCAI 2026.
@@ -45,8 +45,8 @@ News
 - 2025.12: I serve as a Youth Editorial Board Member for Digital Twins and Applications (EI).
 - 2025.11: I serve as an Area Chair for ICASSP 2026.
 - 2025.10: One paper is accpeted by IJAR (CCF-B).
-- 2025.10: One paper is accpeted by TCSVT, congratulations to co-authors.
-- 2025.05: One paper is accpeted by TIM, congratulations to Ze Zhang. 
+- 2025.10: One paper is accpeted by IEEE TCSVT, congratulations to co-authors.
+- 2025.05: One paper is accpeted by IEEE TIM, congratulations to Ze Zhang. 
 - 2025.05: One paper is accepted by MIR.
 - 2025.04: Our team set up the "AI and Cognization Security Lab" led by Prof. Xinghao Jiang (Vice President of Shanghai Jiao Tong University)
 - 2025.03: One paper is accepted by IEEE TIM.
