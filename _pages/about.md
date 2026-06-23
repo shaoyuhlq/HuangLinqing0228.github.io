@@ -142,7 +142,7 @@ Junior or Youth Editorial Board Memeber
 
 Area Chair of conferences:
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026.
-- International Joint Conference on Neural Networks (IJCNN) 2025/2026.
+- International Joint Conference on Neural Networks (IJCNN) 2025/2026/2027.
 
 Reviewer of journals: 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -160,7 +160,7 @@ Reviewer of journals:
 
 Reviewer or PC member of conferences:
 - IJCAI 2026
-- AAAI 2026
+- AAAI 2026/2027
 - ACMMM 2025/2026
 - ICASSP 2025/2026
 - ICME 2025/2026
