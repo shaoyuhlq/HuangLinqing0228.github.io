@@ -28,7 +28,8 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 News
 ======
-- 2026,06: Four papers are accepted by SMC 2026.
+- 2026.06: One paper is accepted by IR.
+- 2026.06: Four papers are accepted by SMC 2026.
 - 2026.06: One paper is accepted by IEEE TCSVT.
 - 2026.06: One paper is accepted by EITEE.
 - 2026.05: One paper is accepted by Neural Networks, congratulations to co-authors.
