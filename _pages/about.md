@@ -177,8 +177,8 @@ PhD Students:
 - Yonggen Li (Incoming, co-supervised with Junchi Yan), 2026.09-
 
 Master Students:
-- Licheng Qian (Incoming), 2026.09-
-- Xingchun Wang (Incoming), 2026.09-
+- Licheng Qian, 2026.09-
+- Xingchun Wang (ICIUS 2026), 2026.09-
 - Xinwei Zhu (IEEE SMC 2026,), 2025.09-2028.03
 - Zining Lu (IEEE SMC 2026, co-supervised with Prof. Gongshen Liu), 2025.09-2028.03
 - Tingxuan Gu (IEEE SMC 2025, ), 2024.09-2027.03
