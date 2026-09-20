@@ -173,8 +173,8 @@ Reviewer or PC member of conferences:
 Group
 ======
 PhD Students:
-- Yuchen Wang (Incoming, co-supervised with Junchi Yan), 2026.09-
-- Yonggen Li (Incoming, co-supervised with Junchi Yan), 2026.09-
+- Yuchen Wang (Co-supervised with Junchi Yan), 2026.09-
+- Yonggen Li (Co-supervised with Junchi Yan), 2026.09-
 
 Master Students:
 - Licheng Qian, 2026.09-
