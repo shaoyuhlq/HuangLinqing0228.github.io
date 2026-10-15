@@ -180,7 +180,7 @@ PhD Students:
 
 Master Students:
 - Licheng Qian, 2026.09-
-- Xingchun Wang (ICIUS 2026), 2026.09-
+- Xingchun Wang (ICUS 2026), 2026.09-
 - Xinwei Zhu (IEEE SMC 2026,), 2025.09-2028.03
 - Zining Lu (IEEE SMC 2026, co-supervised with Prof. Gongshen Liu), 2025.09-2028.03
 - Tingxuan Gu (IEEE SMC 2025, ), 2024.09-2027.03
