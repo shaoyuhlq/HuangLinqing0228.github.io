@@ -26,6 +26,8 @@ AICS Lab：[https://www.cs.sjtu.edu.cn/yjjg/806.html](https://www.cs.sjtu.edu.cn
 
 **<font color="blue">课题组全年招收本科生开展研究（PRP、大创等），特别欢迎成绩名列前茅、学有余力、立志从事科研、将来打算保研或到海外深造的同学加入 (邮件请注明来意，同时附上成绩单和简历)。</font>**
 
+**<font color="blue">欢迎已获取上海创智学院、北京中关村学院博士offer的同学报考。</font>**
+
 News
 ======
 - 2026.09: One paper is accepted by IEEE TCSVT.
